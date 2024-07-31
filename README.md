@@ -1,9 +1,8 @@
 # belajar_flutter_1
 
-A new Flutter project.
+Ini adalah projek flutter pertama saya yang menggunakan API dari https://www.themealdb.com/ dan juga menggunakan localdata berupa sqlite. Pembuatan UI mengikuti beberapa tutorial yang ada di YouTube dan di Webinar yang pernah saya ikuti
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
